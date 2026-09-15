@@ -1,0 +1,11 @@
+{
+  "slug": "crosschain-proof-page",
+  "name": "Crosschain Proof Page",
+  "kind": "evm",
+  "description": "Create one portable proof page linking Solana signatures and EVM transaction hashes.",
+  "chain": "EVM + Solana",
+  "transactionVersion": 1,
+  "maxTransactionBytes": 4096,
+  "legacyTransactionBytes": 1232,
+  "status": "functional-prototype"
+}
