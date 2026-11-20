@@ -8,7 +8,7 @@ Create one portable proof page linking Solana signatures and EVM transaction has
 
 - Source: https://github.com/nirholas/crosschain-proof-page
 - Primary language: HTML
-- License: Other (see the LICENSE file)
+- License: MIT (see the LICENSE file)
 
 ## Repository layout
 
